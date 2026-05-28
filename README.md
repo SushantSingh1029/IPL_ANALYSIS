@@ -87,26 +87,15 @@ pip install pandas numpy matplotlib
 
 jupyter notebook
 ```
-
+## 📁 Project Structure
 ---
 
 IPL_ANALYSIS/
 │
-├── ipldatasetanalysis.ipynb      # Main Jupyter notebook containing complete analysis
-├── ipldata.csv                   # IPL ball-by-ball dataset
-├── README.md                     # Project documentation
-│
-├── charts/                       # Optional folder for saved visualizations
-│   ├── toss_impact_chart.png
-│   ├── phase_analysis_chart.png
-│   ├── top_batters_chart.png
-│   └── top_bowlers_chart.png
-│
-├── outputs/                      # Optional folder for exported outputs
-│   ├── final_table.csv
-│   └── insights.txt
-│
-└── .gitignore                    # Ignore unnecessary files
+├── IPL_Data_Analysis.ipynb
+├── ipldata.csv
+├── README.md
+└── .gitignore
 
 ---
 
