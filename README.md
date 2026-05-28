@@ -80,8 +80,8 @@ Compared scoring patterns of winning and losing teams across phases.
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipl-data-analysis.git
-cd ipl-data-analysis
+git clone https://github.com/YOUR_USERNAME/IPL_ANALYSIS.git
+cd IPL_ANALYSIS
 
 pip install pandas numpy matplotlib
 
@@ -118,5 +118,5 @@ The most surprising insight was how little toss advantage mattered compared to t
 
 ## 👨‍💻 Author
 
-Sushant Singh  
+Sushant  
 Data Science & Machine Learning Enthusiast
